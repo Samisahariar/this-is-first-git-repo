@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.topcontainer{
+    background-color: aqua;
+    margin: 0;
+
+}
+h1{
+    margin-top: 0;
+    width: 15%;
+    margin: 0 auto 0 auto;
+}
+p{
+    margin: 0px;
+}
